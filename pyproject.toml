@@ -1,2 +1,15 @@
+[project]
+name = "focus-worthy"
+version = "1.0.0"
+description = "Affiliate scraping platform"
+requires-python = ">=3.10"
+dependencies = [
+    "flask",
+    "requests",
+    "beautifulsoup4",
+    "selenium",
+    "pillow",
+]
+
 [tool.vercel]
 entrypoint = "api:app"
