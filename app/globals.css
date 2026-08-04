@@ -25,3 +25,20 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Kill the focus outline cycling - disable browser focus ring */
+*:focus,
+*:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Also kill focus on buttons, links, inputs */
+button:focus,
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
