@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "id": "electronics",
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "id": "phones",
+          "name": "Phones",
+          "items": [
+            { "id": "phone-1", "name": "Smartphone Pro" },
+            { "id": "phone-2", "name": "Budget Phone" },
+            { "id": "phone-3", "name": "Gaming Phone" }
+          ]
+        },
+        {
+          "id": "laptops",
+          "name": "Laptops",
+          "items": [
+            { "id": "laptop-1", "name": "Work Laptop" },
+            { "id": "laptop-2", "name": "Gaming Laptop" },
+            { "id": "laptop-3", "name": "Ultrabook" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "subcategories": [
+        {
+          "id": "mens",
+          "name": "Men's",
+          "items": [
+            { "id": "mens-1", "name": "T-Shirts" },
+            { "id": "mens-2", "name": "Jeans" },
+            { "id": "mens-3", "name": "Jackets" }
+          ]
+        },
+        {
+          "id": "womens",
+          "name": "Women's",
+          "items": [
+            { "id": "womens-1", "name": "Dresses" },
+            { "id": "womens-2", "name": "Tops" },
+            { "id": "womens-3", "name": "Shoes" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "name": "Home & Garden",
+      "subcategories": [
+        {
+          "id": "furniture",
+          "name": "Furniture",
+          "items": [
+            { "id": "furn-1", "name": "Sofas" },
+            { "id": "furn-2", "name": "Chairs" },
+            { "id": "furn-3", "name": "Tables" }
+          ]
+        },
+        {
+          "id": "decor",
+          "name": "Decor",
+          "items": [
+            { "id": "decor-1", "name": "Wall Art" },
+            { "id": "decor-2", "name": "Lighting" },
+            { "id": "decor-3", "name": "Rugs" }
+          ]
+        }
+      ]
+    }
+  ]
+}

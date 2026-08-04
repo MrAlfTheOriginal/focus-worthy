@@ -1,0 +1,278 @@
+[
+  {
+    "id": "phone-1",
+    "name": "Smartphone Pro",
+    "categoryId": "phones",
+    "price": 999.99,
+    "salePrice": 799.99,
+    "image": "/images/placeholder-phone.svg",
+    "description": "High-performance smartphone with advanced camera and processing power. Perfect for professionals and power users.",
+    "specs": {
+      "screen": "6.7 inch AMOLED",
+      "processor": "Latest Gen Processor",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4500mAh"
+    }
+  },
+  {
+    "id": "phone-2",
+    "name": "Budget Phone",
+    "categoryId": "phones",
+    "price": 299.99,
+    "salePrice": 199.99,
+    "image": "/images/placeholder-phone.svg",
+    "description": "Affordable smartphone with solid performance. Great for everyday use and social media.",
+    "specs": {
+      "screen": "6.1 inch IPS",
+      "processor": "Mid-Range Processor",
+      "ram": "4GB",
+      "storage": "64GB",
+      "battery": "4000mAh"
+    }
+  },
+  {
+    "id": "phone-3",
+    "name": "Gaming Phone",
+    "categoryId": "phones",
+    "price": 849.99,
+    "salePrice": 699.99,
+    "image": "/images/placeholder-phone.svg",
+    "description": "Optimized for gaming with enhanced cooling and performance. Excellent refresh rate display.",
+    "specs": {
+      "screen": "6.8 inch AMOLED 144Hz",
+      "processor": "Gaming Processor",
+      "ram": "16GB",
+      "storage": "512GB",
+      "battery": "5000mAh"
+    }
+  },
+  {
+    "id": "laptop-1",
+    "name": "Work Laptop",
+    "categoryId": "laptops",
+    "price": 899.99,
+    "salePrice": 749.99,
+    "image": "/images/placeholder-laptop.svg",
+    "description": "Business-focused laptop with excellent productivity features. Long battery life for all-day work.",
+    "specs": {
+      "screen": "14 inch FHD IPS",
+      "processor": "Business Processor",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "battery": "12 hours"
+    }
+  },
+  {
+    "id": "laptop-2",
+    "name": "Gaming Laptop",
+    "categoryId": "laptops",
+    "price": 1599.99,
+    "salePrice": 1299.99,
+    "image": "/images/placeholder-laptop.svg",
+    "description": "High-end gaming laptop with dedicated GPU and top-tier performance.",
+    "specs": {
+      "screen": "16 inch 4K IPS 165Hz",
+      "processor": "High-End Processor",
+      "ram": "32GB",
+      "storage": "1TB SSD",
+      "battery": "6 hours"
+    }
+  },
+  {
+    "id": "laptop-3",
+    "name": "Ultrabook",
+    "categoryId": "laptops",
+    "price": 1299.99,
+    "salePrice": 999.99,
+    "image": "/images/placeholder-laptop.svg",
+    "description": "Ultra-thin and lightweight laptop perfect for travelers and mobile professionals.",
+    "specs": {
+      "screen": "13 inch 2K OLED",
+      "processor": "Efficient Processor",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "battery": "16 hours"
+    }
+  },
+  {
+    "id": "mens-1",
+    "name": "T-Shirts",
+    "categoryId": "mens",
+    "price": 29.99,
+    "salePrice": 19.99,
+    "image": "/images/placeholder-clothing.svg",
+    "description": "Comfortable cotton t-shirts in various colors and sizes.",
+    "specs": {
+      "material": "100% Cotton",
+      "fit": "Regular",
+      "colors": "10+ options",
+      "sizes": "XS-XXXL"
+    }
+  },
+  {
+    "id": "mens-2",
+    "name": "Jeans",
+    "categoryId": "mens",
+    "price": 59.99,
+    "salePrice": 39.99,
+    "image": "/images/placeholder-clothing.svg",
+    "description": "Durable and stylish jeans for everyday wear.",
+    "specs": {
+      "material": "Cotton Denim",
+      "fit": "Slim/Regular",
+      "colors": "3 options",
+      "sizes": "28-40"
+    }
+  },
+  {
+    "id": "mens-3",
+    "name": "Jackets",
+    "categoryId": "mens",
+    "price": 99.99,
+    "salePrice": 74.99,
+    "image": "/images/placeholder-clothing.svg",
+    "description": "Lightweight and stylish jackets for any season.",
+    "specs": {
+      "material": "Polyester Blend",
+      "fit": "Regular",
+      "colors": "5 options",
+      "sizes": "XS-XXXL"
+    }
+  },
+  {
+    "id": "womens-1",
+    "name": "Dresses",
+    "categoryId": "womens",
+    "price": 79.99,
+    "salePrice": 49.99,
+    "image": "/images/placeholder-clothing.svg",
+    "description": "Elegant dresses for casual and formal occasions.",
+    "specs": {
+      "material": "Cotton/Polyester",
+      "fit": "Various",
+      "colors": "8+ options",
+      "sizes": "XS-XXXL"
+    }
+  },
+  {
+    "id": "womens-2",
+    "name": "Tops",
+    "categoryId": "womens",
+    "price": 39.99,
+    "salePrice": 24.99,
+    "image": "/images/placeholder-clothing.svg",
+    "description": "Versatile tops for work and casual wear.",
+    "specs": {
+      "material": "Cotton/Rayon",
+      "fit": "Fitted/Loose",
+      "colors": "12+ options",
+      "sizes": "XS-XXXL"
+    }
+  },
+  {
+    "id": "womens-3",
+    "name": "Shoes",
+    "categoryId": "womens",
+    "price": 89.99,
+    "salePrice": 59.99,
+    "image": "/images/placeholder-clothing.svg",
+    "description": "Comfortable and stylish shoes for all occasions.",
+    "specs": {
+      "material": "Leather/Synthetic",
+      "fit": "True to Size",
+      "colors": "6 options",
+      "sizes": "5-12"
+    }
+  },
+  {
+    "id": "furn-1",
+    "name": "Sofas",
+    "categoryId": "furniture",
+    "price": 899.99,
+    "salePrice": 699.99,
+    "image": "/images/placeholder-furniture.svg",
+    "description": "Spacious and comfortable sofas for your living room.",
+    "specs": {
+      "material": "Fabric/Leather",
+      "size": "Multiple",
+      "colors": "4 options",
+      "style": "Modern/Classic"
+    }
+  },
+  {
+    "id": "furn-2",
+    "name": "Chairs",
+    "categoryId": "furniture",
+    "price": 299.99,
+    "salePrice": 199.99,
+    "image": "/images/placeholder-furniture.svg",
+    "description": "Ergonomic chairs for comfort and style.",
+    "specs": {
+      "material": "Fabric/Wood",
+      "adjustable": "Yes",
+      "colors": "6 options",
+      "warranty": "5 years"
+    }
+  },
+  {
+    "id": "furn-3",
+    "name": "Tables",
+    "categoryId": "furniture",
+    "price": 399.99,
+    "salePrice": 299.99,
+    "image": "/images/placeholder-furniture.svg",
+    "description": "Stylish tables for dining and work.",
+    "specs": {
+      "material": "Wood/Glass",
+      "size": "Multiple",
+      "colors": "3 options",
+      "style": "Modern/Rustic"
+    }
+  },
+  {
+    "id": "decor-1",
+    "name": "Wall Art",
+    "categoryId": "decor",
+    "price": 49.99,
+    "salePrice": 29.99,
+    "image": "/images/placeholder-decor.svg",
+    "description": "Beautiful wall art prints to enhance your space.",
+    "specs": {
+      "material": "Canvas/Paper",
+      "size": "Multiple",
+      "designs": "100+",
+      "framing": "Optional"
+    }
+  },
+  {
+    "id": "decor-2",
+    "name": "Lighting",
+    "categoryId": "decor",
+    "price": 79.99,
+    "salePrice": 59.99,
+    "image": "/images/placeholder-decor.svg",
+    "description": "Modern lighting solutions for every room.",
+    "specs": {
+      "type": "LED/Incandescent",
+      "brightness": "Dimmable",
+      "colors": "Warm/Cool",
+      "warranty": "2 years"
+    }
+  },
+  {
+    "id": "decor-3",
+    "name": "Rugs",
+    "categoryId": "decor",
+    "price": 199.99,
+    "salePrice": 149.99,
+    "image": "/images/placeholder-decor.svg",
+    "description": "Soft and durable rugs for your home.",
+    "specs": {
+      "material": "Wool/Synthetic",
+      "size": "Multiple",
+      "colors": "8+ options",
+      "cleaning": "Easy Care"
+    }
+  }
+]
