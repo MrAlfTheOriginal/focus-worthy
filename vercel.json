@@ -1,0 +1,9 @@
+{
+  "buildCommand": "next build",
+  "framework": "nextjs",
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- .",
+  "outputDirectory": ".next",
+  "env": {
+    "NEXT_PUBLIC_API_URL": "http://localhost:5000"
+  }
+}
